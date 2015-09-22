@@ -306,6 +306,7 @@ nav ul,nav li {
 }
 #texto{   
     height: 100%;
+    width: 80%;
     background-color: #fff;
     
 }
@@ -315,5 +316,6 @@ nav ul,nav li {
     flex-direction: row;
     justify-content: center;
     height: 100%;
+    width: 80%;
     
 }

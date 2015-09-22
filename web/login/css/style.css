@@ -77,13 +77,13 @@ input {
     background-color: #434A52;
 }
 .form--login input[type="submit"] {
-    background-color: #ea4c88;
+    background-color: #ea4c88;  //essa cor define o botão "cinza? = #D5D5DB    ou   #AAAAAF"
     color: #eee;
     font-weight: bold;
     text-transform: uppercase;
 }
 .form--login input[type="submit"]:focus, .form--login input[type="submit"]:hover {
-    background-color: #d44179;
+    background-color: #d44179; //essa define qdo o mouse passa em cima
 }
 .form__field {
     display: -webkit-box;
